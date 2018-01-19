@@ -1,0 +1,11 @@
+Asli Tapan 35 1 Dental
+Mehmet Demirci 40 2 Dental
+Turan Korkmaz 32 3 Pediatry
+Ibrahim Yetgin 38 4 Pediatry
+Ahmet Arpaci 46 5 Dermatology
+Sema Bulur 31 6 Dermatology
+Hakan Meral 38 7 Orthopaedy
+Gul Aydin 47 8 Orthopaedy
+Serdar Aslan 32 9 Eye
+Dilek Erkan 50 10 Eye
+Emir Tuncer 53 11 Dermatology
